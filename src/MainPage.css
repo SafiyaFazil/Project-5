@@ -1,7 +1,6 @@
 .mainPage {
   background-color: rgba(173, 167, 167, 0.1);
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .bell {
@@ -22,7 +21,7 @@
 .nav {
   padding-left: 10px;
   padding-top: 20px;
-  color: black;
+  color: black !important;
 }
 
 .searchBar {
@@ -33,4 +32,9 @@
   font-size: x-large;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.navlink{
+  color: black;
+  font-size: large;
 }
