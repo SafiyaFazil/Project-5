@@ -1,6 +1,6 @@
 .mainPage {
   background-color: rgba(173, 167, 167, 0.1);
-  font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .bell {
@@ -29,7 +29,7 @@
 }
 
 .sales {
-  font-size: x-large;
+  font-size: larger;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
